@@ -24,7 +24,7 @@ Open to exploring new techniques
 
 ---
 
-![Top Langs](https://github-readme-stats-bkmil.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-bkmil.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=tokyonight)
 
 ---
 
