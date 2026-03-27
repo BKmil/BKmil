@@ -2,7 +2,7 @@
 
 ---
 
-### My name is Kamil Borkowski
+### My name is Kamil
 
 ### I am an Applied Computer Science (in English) student at Wrocław University of Science and Technology
 
