@@ -25,9 +25,9 @@ Open to exploring new techniques
 ---
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BKmil&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BKmil&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=radical)
 
 ---
 
