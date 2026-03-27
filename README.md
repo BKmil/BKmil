@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**BKmil/BKmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### My name is Kamil Borkowski
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am an Applied Computer Science (in English) student at Wrocław University of Science and Technology
+
+Currently diving into:
+- Machine Learning (CV)
+- Software Development
+
+Open to exploring new techniques
+
+---
+
+### Coding mainly in: Python, C++, Java
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,scala,mysql)](https://skillicons.dev)
+
+### Currently used tools
+
+[![My Tools](https://skillicons.dev/icons?i=windows,github,vscode,idea,clion)](https://skillicons.dev)
+
+---
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BKmil&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=BKmil&theme=tokyonight)
