@@ -24,13 +24,10 @@ Open to exploring new techniques
 
 ---
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BKmil&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-bkmil.vercel.app/api/top-langs/?username=BKmil&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Activity
+## Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BKmil&theme=tokyonight)
