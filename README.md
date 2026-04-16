@@ -7,7 +7,7 @@
 ### I am an Applied Computer Science (in English) student at Wrocław University of Science and Technology
 
 Currently diving into:
-- Machine Learning (CV)
+- Machine Learning (CV, LLMs)
 - Software Development
 
 Open to exploring new techniques
